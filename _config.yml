@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "Shanghai"
-title                    : "Shuangcheng Liu"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Shuangcheng Liu"
 description              : &description "A third year undergraduate student from Shanghai Jiao Tong University"
