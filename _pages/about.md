@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student interested in Cryptography and Secure Multi-Party Computation . I'm looking for opportunities participating in projects focused on practical applications or algorithm enhancements in multi-party secure computation or other related works.
+I am from [John Hopcraft Honors Class](https://jhc.sjtu.edu.cn), and I am an undergraduate student interested in Cryptography and Secure Multi-Party Computation. I'm looking for opportunities participating in projects focused on practical applications or algorithm enhancements in multi-party secure computation or other related works.
 
 You can find my CV here: [Shuangcheng Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
